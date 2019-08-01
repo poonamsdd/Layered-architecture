@@ -1,0 +1,645 @@
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csprojResolveAssemblyReference.cache
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\ApplicationInsights.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.rsp
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.exe
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.rsp
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.rsp
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\EntityFramework.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Ninject.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\WebActivatorEx.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\WebGrease.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\AutoMapper.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\ViewModels.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\EntityFramework.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Ninject.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\AutoMapper.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.pdb
+D:\day user\SDWardWebApi\SDWardWebApi\bin\ApplicationInsights.config
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe.config
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.rsp
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.exe
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.rsp
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\System.AppContext.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe.config
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.rsp
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe
+D:\day user\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll.config
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.pdb
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\EntityFramework.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Ninject.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\WebActivatorEx.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\WebGrease.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\AutoMapper.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.pdb
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll.config
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.pdb
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll.config
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.pdb
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll.config
+D:\day user\SDWardWebApi\SDWardWebApi\bin\ViewModels.pdb
+D:\day user\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll.config
+D:\day user\SDWardWebApi\SDWardWebApi\bin\EntityFramework.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Ninject.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.pdb
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\AutoMapper.xml
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.pdb
+D:\day user\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll.config
+D:\day user\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csprojResolveAssemblyReference.cache
+D:\day user\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.dll
+D:\day user\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.pdb
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\ApplicationInsights.config
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe.config
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.rsp
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.exe
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.rsp
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\System.AppContext.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe.config
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.rsp
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll.config
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.pdb
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\EntityFramework.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Ninject.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\WebActivatorEx.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\WebGrease.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\AutoMapper.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.pdb
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll.config
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.pdb
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll.config
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\ViewModels.pdb
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll.config
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\EntityFramework.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Ninject.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.pdb
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.pdb
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll.config
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.pdb
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll.config
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\AutoMapper.xml
+D:\day user\new\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csprojResolveAssemblyReference.cache
+D:\day user\new\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.pdb
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.dll
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.pdb
+D:\day user\new\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\ApplicationInsights.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.rsp
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.exe
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.rsp
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.AppContext.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.rsp
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.pdb
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\WebActivatorEx.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\WebGrease.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\AutoMapper.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.pdb
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.pdb
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.pdb
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\ViewModels.pdb
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.pdb
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.pdb
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.pdb
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\AutoMapper.xml
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csprojResolveAssemblyReference.cache
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csproj.CoreCompileInputs.cache
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csproj.CopyComplete
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.pdb
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Cors.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.Cors.dll
+D:\day user\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.Cors.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\ApplicationInsights.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.rsp
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.exe
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.rsp
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.AppContext.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.rsp
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Cors.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.Cors.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\WebActivatorEx.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\WebGrease.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\AutoMapper.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\ViewModels.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.Cors.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\AutoMapper.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csprojAssemblyReference.cache
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csproj.CoreCompileInputs.cache
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csproj.CopyComplete
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\ApplicationInsights.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.exe.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csc.rsp
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.exe
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\csi.rsp
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.AppContext.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.exe.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\vbc.rsp
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWardWebApi.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Cors.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.Cors.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\WebActivatorEx.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\WebGrease.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\AutoMapper.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Core.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Entity.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Service.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\ViewModels.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\ViewModels.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\EntityFramework.SqlServer.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.Common.WebHost.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Ninject.Web.WebApi.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Net.Http.Formatting.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.Cors.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Newtonsoft.Json.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Helpers.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Http.WebHost.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Mvc.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Optimization.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.Razor.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Deployment.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\System.Web.WebPages.Razor.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Antlr3.Runtime.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.ApplicationInsights.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\Microsoft.AI.Web.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Repository.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\SDWard.Data.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\bin\AutoMapper.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csprojAssemblyReference.cache
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csproj.CoreCompileInputs.cache
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.csproj.CopyComplete
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWardWebApi\obj\Debug\SDWardWebApi.pdb

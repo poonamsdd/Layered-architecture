@@ -1,0 +1,97 @@
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csprojResolveAssemblyReference.cache
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.Migrations.initialcreate375.resources
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.GenerateResource.Cache
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.pdb
+D:\day user\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll.config
+D:\day user\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll
+D:\day user\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.pdb
+D:\day user\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.dll
+D:\day user\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\day user\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll
+D:\day user\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.pdb
+D:\day user\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll.config
+D:\day user\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.xml
+D:\day user\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\day user\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csprojResolveAssemblyReference.cache
+D:\day user\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.dll
+D:\day user\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.pdb
+D:\day user\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.Migrations.InitialCreate1.resources
+D:\day user\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.GenerateResource.Cache
+D:\day user\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.Migrations.UpdateNullable.resources
+D:\day user\new\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll.config
+D:\day user\new\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll
+D:\day user\new\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.pdb
+D:\day user\new\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.dll
+D:\day user\new\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\day user\new\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll
+D:\day user\new\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.pdb
+D:\day user\new\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll.config
+D:\day user\new\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.xml
+D:\day user\new\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\day user\new\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csprojResolveAssemblyReference.cache
+D:\day user\new\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.dll
+D:\day user\new\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.pdb
+D:\day user\new\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.Migrations.poonam007.resources
+D:\day user\new\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.GenerateResource.Cache
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.pdb
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.pdb
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.xml
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csprojResolveAssemblyReference.cache
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.Migrations.poonam007.resources
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.GenerateResource.cache
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.CoreCompileInputs.cache
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.CopyComplete
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csprojAssemblyReference.cache
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.Migrations.poonam007.resources
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.GenerateResource.cache
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.CoreCompileInputs.cache
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.CopyComplete
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Data.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\SDWard.Entity.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csprojAssemblyReference.cache
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.Migrations.poonam007.resources
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.GenerateResource.cache
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.CoreCompileInputs.cache
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.csproj.CopyComplete
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Data\obj\Debug\SDWard.Data.pdb

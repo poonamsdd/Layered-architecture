@@ -1,0 +1,162 @@
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.xml
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.pdb
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll.config
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csprojResolveAssemblyReference.cache
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.dll
+C:\Users\poonam.kumari\Documents\Visual Studio 2017\Projects\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.pdb
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll.config
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.pdb
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.dll
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.dll
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.dll
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.pdb
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll.config
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.pdb
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll.config
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.pdb
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll.config
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.xml
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.xml
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.xml
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.pdb
+D:\day user\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll.config
+D:\day user\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csprojResolveAssemblyReference.cache
+D:\day user\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.dll
+D:\day user\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.pdb
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll.config
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.pdb
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.dll
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.dll
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.dll
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.pdb
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll.config
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.pdb
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll.config
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.pdb
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll.config
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.xml
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.xml
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.pdb
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll.config
+D:\day user\new\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.xml
+D:\day user\new\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csprojResolveAssemblyReference.cache
+D:\day user\new\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.dll
+D:\day user\new\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.pdb
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.pdb
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.pdb
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.pdb
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.pdb
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.xml
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.xml
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.pdb
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll.config
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.xml
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csprojResolveAssemblyReference.cache
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csproj.CoreCompileInputs.cache
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csproj.CopyComplete
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.dll
+D:\day user\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.pdb
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll.config
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.xml
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csprojAssemblyReference.cache
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csproj.CoreCompileInputs.cache
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csproj.CopyComplete
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.dll
+D:\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Service.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Entity.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Repository.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\ViewModels.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\Ninject.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.pdb
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\SDWard.Data.dll.config
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\bin\Debug\AutoMapper.xml
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csprojAssemblyReference.cache
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csproj.CoreCompileInputs.cache
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.csproj.CopyComplete
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.dll
+D:\poonam\poonamk\poonam\new sdward\new sdward\SDWardWebApi\SDWard.Service\obj\Debug\SDWard.Service.pdb
