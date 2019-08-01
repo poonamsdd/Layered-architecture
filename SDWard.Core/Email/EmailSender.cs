@@ -20,7 +20,7 @@ namespace SDWardWebApi.Helper.Email
             smtp.Host = "smtp.gmail.com";
             smtp.Port = 587;
             smtp.UseDefaultCredentials = false;
-          
+            smtp.Credentials = new System.Net.NetworkCredential("test@gmail.com", "********");
             smtp.EnableSsl = true;
             smtp.Send(mail);
         }
